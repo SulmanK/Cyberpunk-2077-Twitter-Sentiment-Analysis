@@ -20,4 +20,9 @@ Cyberpunk 2077 is an upcoming action role-playing video game developed by CD Pro
   * PostgreSQL
 * Part II: Dashboard
 
+## Pertinent Deliverables
+* [Jupyter Notebook](https://github.com/SulmanK/Cyberpunk-2077-Twitter-Sentiment-Analysis/blob/main/Cyberpunk%202077%20Sentiment%20Analysis%20(Project%20Notebook).ipynb)
+* [Dashboard](https://cyberpunk-2077-twitter-sa.herokuapp.com/)
+
+
 
