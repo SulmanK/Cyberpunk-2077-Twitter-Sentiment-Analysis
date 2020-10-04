@@ -23,6 +23,8 @@ Cyberpunk 2077 is an upcoming action role-playing video game developed by CD Pro
 ## Pertinent Deliverables
 * [Jupyter Notebook](https://github.com/SulmanK/Cyberpunk-2077-Twitter-Sentiment-Analysis/blob/main/Cyberpunk%202077%20Sentiment%20Analysis%20(Project%20Notebook).ipynb)
 * [Dashboard](https://cyberpunk-2077-twitter-sa.herokuapp.com/)
+  * The applications streams in recent tweets from that day, and performs a live update every 30 seconds to update the dataframe.
+  * In the future, I plan to add in additional workers so each user's experience will be unique - currently there is only one instance of the application. 
 
 
 
