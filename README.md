@@ -28,5 +28,7 @@ Cyberpunk 2077 is an upcoming action role-playing video game developed by CD Pro
     * Every hour the database is flushed to prevent any overload.
   * In the future, I plan to add in additional workers so each user's experience will be unique - currently there is only one instance of the application. 
 
+## Demo
+![Demo](http://g.recordit.co/fIADYArm6j.gif
 
 
