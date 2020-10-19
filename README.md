@@ -30,6 +30,6 @@ Cyberpunk 2077 is an upcoming action role-playing video game developed by CD Pro
 
 ## Demo
 
-![Demo](http://g.recordit.co/fIADYArm6j.gif
+![Demo](http://g.recordit.co/fIADYArm6j.gif)
 
 
